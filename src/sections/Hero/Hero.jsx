@@ -55,7 +55,10 @@ function Hero() {
           </a>
         </span>
         <p className={styles.description}>
-        I'm highly enthusiastic about exploring new avenues and delivering reliable projects. 
+          I'm highly enthusiastic about exploring new avenues and delivering
+          reliable projects. With an optimistic mindset and a strong commitment
+          to personal growth, I'm eager to tackle challenges and consistently
+          deliver high-quality results
         </p>
         <a href={CV} download>
           <button className="hover">Resume</button>
